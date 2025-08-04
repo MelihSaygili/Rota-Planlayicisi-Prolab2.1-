@@ -1,0 +1,381 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\melih\\source\\repos\\ekomobil\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AB8803B0-6509-4552-9045-DD5AD795926D}|ekomobil\\ekomobil.csproj|C:\\Users\\melih\\source\\repos\\ekomobil\\ekomobil\\taksi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB8803B0-6509-4552-9045-DD5AD795926D}|ekomobil\\ekomobil.csproj|solutionrelative:ekomobil\\taksi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB8803B0-6509-4552-9045-DD5AD795926D}|ekomobil\\ekomobil.csproj|C:\\Users\\melih\\source\\repos\\ekomobil\\ekomobil\\\u00F6demey\u00F6ntemi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB8803B0-6509-4552-9045-DD5AD795926D}|ekomobil\\ekomobil.csproj|solutionrelative:ekomobil\\\u00F6demey\u00F6ntemi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB8803B0-6509-4552-9045-DD5AD795926D}|ekomobil\\ekomobil.csproj|C:\\Users\\melih\\source\\repos\\ekomobil\\ekomobil\\kentkart\u00F6deme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB8803B0-6509-4552-9045-DD5AD795926D}|ekomobil\\ekomobil.csproj|solutionrelative:ekomobil\\kentkart\u00F6deme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB8803B0-6509-4552-9045-DD5AD795926D}|ekomobil\\ekomobil.csproj|C:\\Users\\melih\\source\\repos\\ekomobil\\ekomobil\\nakit\u00F6deme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB8803B0-6509-4552-9045-DD5AD795926D}|ekomobil\\ekomobil.csproj|solutionrelative:ekomobil\\nakit\u00F6deme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB8803B0-6509-4552-9045-DD5AD795926D}|ekomobil\\ekomobil.csproj|C:\\Users\\melih\\source\\repos\\ekomobil\\ekomobil\\kredikart\u0131\u00F6deme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB8803B0-6509-4552-9045-DD5AD795926D}|ekomobil\\ekomobil.csproj|solutionrelative:ekomobil\\kredikart\u0131\u00F6deme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB8803B0-6509-4552-9045-DD5AD795926D}|ekomobil\\ekomobil.csproj|c:\\users\\melih\\source\\repos\\ekomobil\\ekomobil\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB8803B0-6509-4552-9045-DD5AD795926D}|ekomobil\\ekomobil.csproj|solutionrelative:ekomobil\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB8803B0-6509-4552-9045-DD5AD795926D}|ekomobil\\ekomobil.csproj|C:\\Users\\melih\\source\\repos\\ekomobil\\ekomobil\\rotahesaplayici.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB8803B0-6509-4552-9045-DD5AD795926D}|ekomobil\\ekomobil.csproj|solutionrelative:ekomobil\\rotahesaplayici.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB8803B0-6509-4552-9045-DD5AD795926D}|ekomobil\\ekomobil.csproj|C:\\Users\\melih\\source\\repos\\ekomobil\\ekomobil\\veriyukleyici.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB8803B0-6509-4552-9045-DD5AD795926D}|ekomobil\\ekomobil.csproj|solutionrelative:ekomobil\\veriyukleyici.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB8803B0-6509-4552-9045-DD5AD795926D}|ekomobil\\ekomobil.csproj|C:\\Users\\melih\\source\\repos\\ekomobil\\ekomobil\\veriseti.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{AB8803B0-6509-4552-9045-DD5AD795926D}|ekomobil\\ekomobil.csproj|solutionrelative:ekomobil\\veriseti.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB8803B0-6509-4552-9045-DD5AD795926D}|ekomobil\\ekomobil.csproj|C:\\Users\\melih\\source\\repos\\ekomobil\\ekomobil\\koordinat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB8803B0-6509-4552-9045-DD5AD795926D}|ekomobil\\ekomobil.csproj|solutionrelative:ekomobil\\koordinat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB8803B0-6509-4552-9045-DD5AD795926D}|ekomobil\\ekomobil.csproj|C:\\Users\\melih\\source\\repos\\ekomobil\\ekomobil\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB8803B0-6509-4552-9045-DD5AD795926D}|ekomobil\\ekomobil.csproj|solutionrelative:ekomobil\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB8803B0-6509-4552-9045-DD5AD795926D}|ekomobil\\ekomobil.csproj|C:\\Users\\melih\\source\\repos\\ekomobil\\ekomobil\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AB8803B0-6509-4552-9045-DD5AD795926D}|ekomobil\\ekomobil.csproj|solutionrelative:ekomobil\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB8803B0-6509-4552-9045-DD5AD795926D}|ekomobil\\ekomobil.csproj|C:\\Users\\melih\\source\\repos\\ekomobil\\ekomobil\\ara\u00E7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB8803B0-6509-4552-9045-DD5AD795926D}|ekomobil\\ekomobil.csproj|solutionrelative:ekomobil\\ara\u00E7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB8803B0-6509-4552-9045-DD5AD795926D}|ekomobil\\ekomobil.csproj|C:\\Users\\melih\\source\\repos\\ekomobil\\ekomobil\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB8803B0-6509-4552-9045-DD5AD795926D}|ekomobil\\ekomobil.csproj|solutionrelative:ekomobil\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB8803B0-6509-4552-9045-DD5AD795926D}|ekomobil\\ekomobil.csproj|C:\\Users\\melih\\source\\repos\\ekomobil\\ekomobil\\mesafehesaplayici.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB8803B0-6509-4552-9045-DD5AD795926D}|ekomobil\\ekomobil.csproj|solutionrelative:ekomobil\\mesafehesaplayici.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB8803B0-6509-4552-9045-DD5AD795926D}|ekomobil\\ekomobil.csproj|C:\\Users\\melih\\source\\repos\\ekomobil\\ekomobil\\ya\u015Fl\u0131yolcu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB8803B0-6509-4552-9045-DD5AD795926D}|ekomobil\\ekomobil.csproj|solutionrelative:ekomobil\\ya\u015Fl\u0131yolcu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB8803B0-6509-4552-9045-DD5AD795926D}|ekomobil\\ekomobil.csproj|C:\\Users\\melih\\source\\repos\\ekomobil\\ekomobil\\\u00F6\u011Frenciyolcu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB8803B0-6509-4552-9045-DD5AD795926D}|ekomobil\\ekomobil.csproj|solutionrelative:ekomobil\\\u00F6\u011Frenciyolcu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB8803B0-6509-4552-9045-DD5AD795926D}|ekomobil\\ekomobil.csproj|C:\\Users\\melih\\source\\repos\\ekomobil\\ekomobil\\genelyolcu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB8803B0-6509-4552-9045-DD5AD795926D}|ekomobil\\ekomobil.csproj|solutionrelative:ekomobil\\genelyolcu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB8803B0-6509-4552-9045-DD5AD795926D}|ekomobil\\ekomobil.csproj|C:\\Users\\melih\\source\\repos\\ekomobil\\ekomobil\\yolcu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB8803B0-6509-4552-9045-DD5AD795926D}|ekomobil\\ekomobil.csproj|solutionrelative:ekomobil\\yolcu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB8803B0-6509-4552-9045-DD5AD795926D}|ekomobil\\ekomobil.csproj|C:\\Users\\melih\\source\\repos\\ekomobil\\ekomobil\\topluta\u015F\u0131ma.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB8803B0-6509-4552-9045-DD5AD795926D}|ekomobil\\ekomobil.csproj|solutionrelative:ekomobil\\topluta\u015F\u0131ma.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB8803B0-6509-4552-9045-DD5AD795926D}|ekomobil\\ekomobil.csproj|C:\\Users\\melih\\source\\repos\\ekomobil\\ekomobil\\otob\u00FCs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB8803B0-6509-4552-9045-DD5AD795926D}|ekomobil\\ekomobil.csproj|solutionrelative:ekomobil\\otob\u00FCs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB8803B0-6509-4552-9045-DD5AD795926D}|ekomobil\\ekomobil.csproj|C:\\Users\\melih\\source\\repos\\ekomobil\\ekomobil\\tramvay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB8803B0-6509-4552-9045-DD5AD795926D}|ekomobil\\ekomobil.csproj|solutionrelative:ekomobil\\tramvay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 14,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{6324226f-61b6-4f28-92ee-18d4b5fe1e48}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "veriseti.json",
+              "DocumentMoniker": "C:\\Users\\melih\\source\\repos\\ekomobil\\ekomobil\\veriseti.json",
+              "RelativeDocumentMoniker": "ekomobil\\veriseti.json",
+              "ToolTip": "C:\\Users\\melih\\source\\repos\\ekomobil\\ekomobil\\veriseti.json",
+              "RelativeToolTip": "ekomobil\\veriseti.json",
+              "ViewState": "AgIAAKQAAAAAAAAAAAAIwMAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-03T22:29:01.103Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "VeriYukleyici.cs",
+              "DocumentMoniker": "C:\\Users\\melih\\source\\repos\\ekomobil\\ekomobil\\VeriYukleyici.cs",
+              "RelativeDocumentMoniker": "ekomobil\\VeriYukleyici.cs",
+              "ToolTip": "C:\\Users\\melih\\source\\repos\\ekomobil\\ekomobil\\VeriYukleyici.cs",
+              "RelativeToolTip": "ekomobil\\VeriYukleyici.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T21:57:18.103Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RotaHesaplayici.cs",
+              "DocumentMoniker": "C:\\Users\\melih\\source\\repos\\ekomobil\\ekomobil\\RotaHesaplayici.cs",
+              "RelativeDocumentMoniker": "ekomobil\\RotaHesaplayici.cs",
+              "ToolTip": "C:\\Users\\melih\\source\\repos\\ekomobil\\ekomobil\\RotaHesaplayici.cs",
+              "RelativeToolTip": "ekomobil\\RotaHesaplayici.cs",
+              "ViewState": "AgIAAFUAAAAAAAAAAAAQwHEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T19:05:26.991Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "MesafeHesaplayici.cs",
+              "DocumentMoniker": "C:\\Users\\melih\\source\\repos\\ekomobil\\ekomobil\\MesafeHesaplayici.cs",
+              "RelativeDocumentMoniker": "ekomobil\\MesafeHesaplayici.cs",
+              "ToolTip": "C:\\Users\\melih\\source\\repos\\ekomobil\\ekomobil\\MesafeHesaplayici.cs",
+              "RelativeToolTip": "ekomobil\\MesafeHesaplayici.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T21:55:48.048Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Koordinat.cs",
+              "DocumentMoniker": "C:\\Users\\melih\\source\\repos\\ekomobil\\ekomobil\\Koordinat.cs",
+              "RelativeDocumentMoniker": "ekomobil\\Koordinat.cs",
+              "ToolTip": "C:\\Users\\melih\\source\\repos\\ekomobil\\ekomobil\\Koordinat.cs",
+              "RelativeToolTip": "ekomobil\\Koordinat.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T21:54:12.36Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\melih\\source\\repos\\ekomobil\\ekomobil\\Form1.cs",
+              "RelativeDocumentMoniker": "ekomobil\\Form1.cs",
+              "ToolTip": "C:\\Users\\melih\\source\\repos\\ekomobil\\ekomobil\\Form1.cs",
+              "RelativeToolTip": "ekomobil\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAM0AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T19:12:32.138Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Form1.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\melih\\source\\repos\\ekomobil\\ekomobil\\Form1.cs",
+              "RelativeDocumentMoniker": "ekomobil\\Form1.cs",
+              "ToolTip": "C:\\Users\\melih\\source\\repos\\ekomobil\\ekomobil\\Form1.cs [Tasar\u0131m]",
+              "RelativeToolTip": "ekomobil\\Form1.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T14:15:48.509Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\melih\\source\\repos\\ekomobil\\ekomobil\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "ekomobil\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\melih\\source\\repos\\ekomobil\\ekomobil\\Form1.Designer.cs",
+              "RelativeToolTip": "ekomobil\\Form1.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGgAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T17:25:35.938Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\melih\\source\\repos\\ekomobil\\ekomobil\\Program.cs",
+              "RelativeDocumentMoniker": "ekomobil\\Program.cs",
+              "ToolTip": "C:\\Users\\melih\\source\\repos\\ekomobil\\ekomobil\\Program.cs",
+              "RelativeToolTip": "ekomobil\\Program.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwCcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T14:17:01.19Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ara\u00E7.cs",
+              "DocumentMoniker": "C:\\Users\\melih\\source\\repos\\ekomobil\\ekomobil\\ara\u00E7.cs",
+              "RelativeDocumentMoniker": "ekomobil\\ara\u00E7.cs",
+              "ToolTip": "C:\\Users\\melih\\source\\repos\\ekomobil\\ekomobil\\ara\u00E7.cs",
+              "RelativeToolTip": "ekomobil\\ara\u00E7.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAIAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T18:43:54.773Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "TopluTa\u015F\u0131ma.cs",
+              "DocumentMoniker": "C:\\Users\\melih\\source\\repos\\ekomobil\\ekomobil\\TopluTa\u015F\u0131ma.cs",
+              "RelativeDocumentMoniker": "ekomobil\\TopluTa\u015F\u0131ma.cs",
+              "ToolTip": "C:\\Users\\melih\\source\\repos\\ekomobil\\ekomobil\\TopluTa\u015F\u0131ma.cs",
+              "RelativeToolTip": "ekomobil\\TopluTa\u015F\u0131ma.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T18:45:23.439Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Tramvay.cs",
+              "DocumentMoniker": "C:\\Users\\melih\\source\\repos\\ekomobil\\ekomobil\\Tramvay.cs",
+              "RelativeDocumentMoniker": "ekomobil\\Tramvay.cs",
+              "ToolTip": "C:\\Users\\melih\\source\\repos\\ekomobil\\ekomobil\\Tramvay.cs",
+              "RelativeToolTip": "ekomobil\\Tramvay.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T18:46:04.891Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Otob\u00FCs.cs",
+              "DocumentMoniker": "C:\\Users\\melih\\source\\repos\\ekomobil\\ekomobil\\Otob\u00FCs.cs",
+              "RelativeDocumentMoniker": "ekomobil\\Otob\u00FCs.cs",
+              "ToolTip": "C:\\Users\\melih\\source\\repos\\ekomobil\\ekomobil\\Otob\u00FCs.cs",
+              "RelativeToolTip": "ekomobil\\Otob\u00FCs.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAIAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T18:45:45.284Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Taksi.cs",
+              "DocumentMoniker": "C:\\Users\\melih\\source\\repos\\ekomobil\\ekomobil\\Taksi.cs",
+              "RelativeDocumentMoniker": "ekomobil\\Taksi.cs",
+              "ToolTip": "C:\\Users\\melih\\source\\repos\\ekomobil\\ekomobil\\Taksi.cs",
+              "RelativeToolTip": "ekomobil\\Taksi.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T18:44:30.98Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "\u00D6demeY\u00F6ntemi.cs",
+              "DocumentMoniker": "C:\\Users\\melih\\source\\repos\\ekomobil\\ekomobil\\\u00D6demeY\u00F6ntemi.cs",
+              "RelativeDocumentMoniker": "ekomobil\\\u00D6demeY\u00F6ntemi.cs",
+              "ToolTip": "C:\\Users\\melih\\source\\repos\\ekomobil\\ekomobil\\\u00D6demeY\u00F6ntemi.cs",
+              "RelativeToolTip": "ekomobil\\\u00D6demeY\u00F6ntemi.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T18:48:51.536Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "KentKart\u00D6deme.cs",
+              "DocumentMoniker": "C:\\Users\\melih\\source\\repos\\ekomobil\\ekomobil\\KentKart\u00D6deme.cs",
+              "RelativeDocumentMoniker": "ekomobil\\KentKart\u00D6deme.cs",
+              "ToolTip": "C:\\Users\\melih\\source\\repos\\ekomobil\\ekomobil\\KentKart\u00D6deme.cs",
+              "RelativeToolTip": "ekomobil\\KentKart\u00D6deme.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T18:50:06.523Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "KrediKart\u0131\u00D6deme.cs",
+              "DocumentMoniker": "C:\\Users\\melih\\source\\repos\\ekomobil\\ekomobil\\KrediKart\u0131\u00D6deme.cs",
+              "RelativeDocumentMoniker": "ekomobil\\KrediKart\u0131\u00D6deme.cs",
+              "ToolTip": "C:\\Users\\melih\\source\\repos\\ekomobil\\ekomobil\\KrediKart\u0131\u00D6deme.cs",
+              "RelativeToolTip": "ekomobil\\KrediKart\u0131\u00D6deme.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T18:49:44.073Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Nakit\u00D6deme.cs",
+              "DocumentMoniker": "C:\\Users\\melih\\source\\repos\\ekomobil\\ekomobil\\Nakit\u00D6deme.cs",
+              "RelativeDocumentMoniker": "ekomobil\\Nakit\u00D6deme.cs",
+              "ToolTip": "C:\\Users\\melih\\source\\repos\\ekomobil\\ekomobil\\Nakit\u00D6deme.cs",
+              "RelativeToolTip": "ekomobil\\Nakit\u00D6deme.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T18:49:16.572Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Yolcu.cs",
+              "DocumentMoniker": "C:\\Users\\melih\\source\\repos\\ekomobil\\ekomobil\\Yolcu.cs",
+              "RelativeDocumentMoniker": "ekomobil\\Yolcu.cs",
+              "ToolTip": "C:\\Users\\melih\\source\\repos\\ekomobil\\ekomobil\\Yolcu.cs",
+              "RelativeToolTip": "ekomobil\\Yolcu.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T18:47:09.729Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "GenelYolcu.cs",
+              "DocumentMoniker": "C:\\Users\\melih\\source\\repos\\ekomobil\\ekomobil\\GenelYolcu.cs",
+              "RelativeDocumentMoniker": "ekomobil\\GenelYolcu.cs",
+              "ToolTip": "C:\\Users\\melih\\source\\repos\\ekomobil\\ekomobil\\GenelYolcu.cs",
+              "RelativeToolTip": "ekomobil\\GenelYolcu.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T18:47:28.796Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "\u00D6\u011FrenciYolcu.cs",
+              "DocumentMoniker": "C:\\Users\\melih\\source\\repos\\ekomobil\\ekomobil\\\u00D6\u011FrenciYolcu.cs",
+              "RelativeDocumentMoniker": "ekomobil\\\u00D6\u011FrenciYolcu.cs",
+              "ToolTip": "C:\\Users\\melih\\source\\repos\\ekomobil\\ekomobil\\\u00D6\u011FrenciYolcu.cs",
+              "RelativeToolTip": "ekomobil\\\u00D6\u011FrenciYolcu.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T18:47:49.709Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Ya\u015Fl\u0131Yolcu.cs",
+              "DocumentMoniker": "C:\\Users\\melih\\source\\repos\\ekomobil\\ekomobil\\Ya\u015Fl\u0131Yolcu.cs",
+              "RelativeDocumentMoniker": "ekomobil\\Ya\u015Fl\u0131Yolcu.cs",
+              "ToolTip": "C:\\Users\\melih\\source\\repos\\ekomobil\\ekomobil\\Ya\u015Fl\u0131Yolcu.cs",
+              "RelativeToolTip": "ekomobil\\Ya\u015Fl\u0131Yolcu.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T18:48:17.827Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

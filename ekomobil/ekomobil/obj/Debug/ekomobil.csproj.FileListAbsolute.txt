@@ -1,0 +1,13 @@
+C:\Users\melih\source\repos\ekomobil\ekomobil\obj\Debug\ekomobil.csproj.AssemblyReference.cache
+C:\Users\melih\source\repos\ekomobil\ekomobil\obj\Debug\ekomobil.Form1.resources
+C:\Users\melih\source\repos\ekomobil\ekomobil\obj\Debug\ekomobil.Properties.Resources.resources
+C:\Users\melih\source\repos\ekomobil\ekomobil\obj\Debug\ekomobil.csproj.GenerateResource.cache
+C:\Users\melih\source\repos\ekomobil\ekomobil\obj\Debug\ekomobil.csproj.CoreCompileInputs.cache
+C:\Users\melih\source\repos\ekomobil\ekomobil\bin\Debug\ekomobil.exe.config
+C:\Users\melih\source\repos\ekomobil\ekomobil\bin\Debug\ekomobil.exe
+C:\Users\melih\source\repos\ekomobil\ekomobil\bin\Debug\ekomobil.pdb
+C:\Users\melih\source\repos\ekomobil\ekomobil\bin\Debug\Newtonsoft.Json.dll
+C:\Users\melih\source\repos\ekomobil\ekomobil\bin\Debug\Newtonsoft.Json.xml
+C:\Users\melih\source\repos\ekomobil\ekomobil\obj\Debug\ekomobil.csproj.Up2Date
+C:\Users\melih\source\repos\ekomobil\ekomobil\obj\Debug\ekomobil.exe
+C:\Users\melih\source\repos\ekomobil\ekomobil\obj\Debug\ekomobil.pdb
